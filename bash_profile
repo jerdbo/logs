@@ -1,0 +1,6 @@
+alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
+alias c='clear'
+alias ll='ls -l'
+alias up='cd .. && pwd && ls'
+alias tailf='tail -f'
+alias free='top -l 1 | head -n 10 | grep PhysMem'
